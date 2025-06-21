@@ -1,4 +1,4 @@
-![Output](assets/output.jpg)
+![Output](assets/output.png)
 # Virtual T-Shirt Try-On
 This repository provides a framework for a virtual try-on system, specifically focusing on T-shirts. It leverages computer vision and deep learning techniques, including models like SegFormer for image segmentation, to process apparel and enable virtual fitting experiences.
 
